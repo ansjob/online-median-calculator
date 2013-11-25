@@ -12,7 +12,7 @@ int main() {
 	std::priority_queue<int, std::vector<int>, std::less<int> > less_q;
 
 	int median;
-	if (scanf("%d", &median) != 1) return -1;;
+	if (scanf("%d", &median) != 1) return -1;
 	printf("%d\n", median);
 
 
