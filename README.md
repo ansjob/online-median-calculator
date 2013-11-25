@@ -13,5 +13,5 @@ The time complexity is O(n*log(n)) and the memory footprint is O(n) after readin
 TODO
 ====
 
-Implement more memory efficient version that counts occurances of each distinct element seen.
-This is for the use case where the input is a stream of bytes, the memory overhead becomes constant.
+* Implement more memory efficient version that counts occurances of each distinct element seen.
+ This is for the use case where the input is a stream of bytes, the memory overhead becomes constant.
